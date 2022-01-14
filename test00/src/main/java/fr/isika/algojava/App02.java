@@ -3,6 +3,7 @@ package fr.isika.algojava;
 // MAIN
 // Modif sur la nouvelle branche testing
 // modif YS
+//modif 2
 
 import java.util.Random;
 import java.util.Scanner;
