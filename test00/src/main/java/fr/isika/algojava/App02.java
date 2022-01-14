@@ -5,6 +5,8 @@ package fr.isika.algojava;
 // modif YS
 //modif 2
 
+//amodif sur branche main
+
 import java.util.Random;
 import java.util.Scanner;
 
